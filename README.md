@@ -36,7 +36,7 @@ const tanveer = {
     education: "Computer Science Engineering",
     
     currentlyLearning: ["Next.js 14", "AI/ML", "Docker & Kubernetes"],
-    interests: ["Web Development", "Open Source", "Cloud Computing"],
+    interests: ["Web Development", "Open Source", "],
     
     lifePhilosophy: "Code is poetry written in logic 💡",
     
@@ -47,7 +47,7 @@ const tanveer = {
     },
     
     contact: {
-        email: "tanveer.jadav@example.com",
+        email: "jadavtanveer2006@gmail.com",
         linkedin: "linkedin.com/in/yourprofile",
         portfolio: "yourportfolio.com"
     }
@@ -224,11 +224,7 @@ const tanveer = {
 
 ---
 
-## 🎵 Spotify Playing
 
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
-
----
 
 ### 📈 Profile Summary
 
